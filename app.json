@@ -1,0 +1,6 @@
+{
+  "expo": {
+    "sdkVersion": "26.0.0",
+    "splash": {"image": "./koro.jpg","backgroundColor": "#C42E2F","resizeMode":"contain"}
+  }
+}
